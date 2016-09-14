@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">WSProjects</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="txtCEP">CEP</string>
+    <string name="btnBuscar">Buscar</string>
+    <string name="txtLogradouro">Logradouro</string>
+    <string name="txtComplemento">Complemento</string>
+    <string name="txtBairro">Bairro</string>
+    <string name="txtLocalidade">Localidade</string>
+    <string name="txtUF">UF</string>
+    <string name="txtIBGE">IBGE</string>
+    <string name="txtGIA">Gia</string>
+    <string name="msgOk">Ok</string>
+    <string name="c_digo_do_item">Código do Item</string>
+    <string name="buscar">Buscar</string>
+
+</resources>
